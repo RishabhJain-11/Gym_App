@@ -10,6 +10,7 @@ const HeroBanner = () => (
 
     <Typography fontWeight={700} sx={{ fontSize: { lg: '44px', xs: '40px' } }} mb="23px" mt="30px">
       Sweat, Smile And Repeat
+      Keep The Hustle Going
     </Typography>
 
     <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
